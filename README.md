@@ -6,7 +6,7 @@
 **Story Description:** As a workforce management analyst, I need to understand the probability distribution of incoming customer service calls so that we can optimize staffing levels and minimize customer wait times.
 
 ### Problem Statement
-Historical data establishes that call volume follows a **Poisson distribution** with an average ($\mu$) of **5 calls per hour**. We must evaluate the mathematical likelihood of receiving **exactly 3 calls** in any given hour to stress-test low-volume staffing baselines.
+Historical data establishes that call volume follows a **Poisson distribution** with an average ($\mu$) of **5 calls per hour**. We must evaluate the mathematical likelihood of receiving **exactly 3 calls** in any given hour to stress-test low-volume staffing baselines..
 
 ---
 
